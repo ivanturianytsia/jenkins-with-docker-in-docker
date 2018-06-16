@@ -1,4 +1,4 @@
-FROM jenkins:latest
+FROM jenkins/jenkins:latest
 MAINTAINER ivanturianytsia.work@gmail.com
 USER root
 # Install the latest Docker CE binaries
